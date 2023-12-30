@@ -8,7 +8,7 @@ transaction needs, can be executed online.
 
 ### it is a website for a clothing store with two interfaces: 
 ```
-An interface for the user:
+User interface:
            - that will enable the user to view all the products provided by the store and add any of them to the shopping cart,
              as well as the products that were recently added, as well as the offers provided by the store.
            - Search for the products he wants and follow up on his orders in terms of whether they have been approved by the store
